@@ -1,1 +1,1 @@
-<h1>Тестовый документ</h1><p>Hello Word сывсвысывсы</p><p><img src="https://i.pinimg.com/736x/b5/4d/ad/b54dadf09b570e14ba84662311f59a8d.jpg" alt="кот" width="300"></p><br>
+<h1><span style="background-color: var(--jd-color-background-default);">Мой документ</span></h1><h1><span style="background-color: var(--jd-color-background-default); font-weight: 400; font-size: 16px;">Hello Word сывсвысывсы</span></h1><p><img src="https://i.pinimg.com/736x/b5/4d/ad/b54dadf09b570e14ba84662311f59a8d.jpg" alt="кот" width="300"></p><br>
